@@ -6,7 +6,7 @@ document.addEventListener("DOMContentLoaded", function() {
   setTimeout(() => {
     loader.style.opacity = '0';
     loader.style.display = 'none';
-  }, 3000);
+  }, 400);
 });
 
 // Header functionality
