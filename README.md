@@ -1,1 +1,1 @@
-Yubileniy Restoran web sayti
+Yubileniy Restoran web loyihasiYubileniy Restoran web sayti
